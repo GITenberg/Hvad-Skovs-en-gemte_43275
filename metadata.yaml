@@ -1,0 +1,29 @@
+_repo: Hvad-Skovs-en-gemte_43275
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43275-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rosenkrantz, Palle, baron
+    alias: Rosenkrantz, Palle Adam Vilhelm, baron
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '42098'
+    url: http://www.gutenberg.org/2009/agents/42098
+    wikipedia: https://da.wikipedia.org/wiki/Palle_Rosenkrantz_(forfatter)
+description: ''
+gutenberg_issued: '2013-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43275'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PT'
+- !lcsh 'Danish fiction'
+title: Hvad Skovsøen gemte
+url: http://www.gutenberg.org/ebooks/43275
