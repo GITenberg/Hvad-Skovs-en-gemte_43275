@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42098
     wikipedia: https://da.wikipedia.org/wiki/Palle_Rosenkrantz_(forfatter)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43275#Hvad-Skovs-en-gemte
 gutenberg_issued: '2013-07-21'
 gutenberg_type: Text
 identifiers:
